@@ -112,5 +112,7 @@ models.py/ Database using SQLAlchemy
 
 ## Next Steps
 Deployment to production environment
+
 Enhance frontend features
+
 Mobile app version
